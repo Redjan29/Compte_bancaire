@@ -7,7 +7,8 @@
             numeroDeCompte = numero;
         }
         public static void main(String[] args) {
-            GestionCompteBancaire gestion = new GestionCompteBancaire(1);
+            GestionCompteBancaire gestion = new GestionCompteBancaire(2);
+            System.out.println("test");
 
         }
     }
